@@ -20,9 +20,7 @@ dependencies = [
     "conformer==0.3.2",
     "safetensors",
     "spacy-pkuseg",
-    "pykakasi==2.3.0",
-    "gradio",
-    "russian-text-stresser @ git+https://github.com/Vuizur/add-stress-to-epub",
+    "pykakasi==2.3.0"
 
 ]
 
